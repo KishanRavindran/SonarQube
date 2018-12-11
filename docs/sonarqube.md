@@ -9,7 +9,7 @@
 1. [DockerCompose File](https://github.com/KishanRavindran/Angularlearning/blob/master/docs/docker-compose.yml)
 
 # Prerequisites<br/> 
-  [Install docker](https://docs.docker.com/install/)
+  [Install docker](https://docs.docker.com/install/)<br/>
   [Install docker compose](https://docs.docker.com/compose/install/)
          
 # Docker Compose File:<br/>
